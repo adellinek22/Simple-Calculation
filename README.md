@@ -12,7 +12,6 @@ Implement a program that calculates the function A(a, b, c, d) = (a + b) / (c + 
 
     ```bash
     git clone https://github.com/adellinek22/Simple-Calculation.git
-
     cd Simple-Calculation
     ```
 - Run the application
